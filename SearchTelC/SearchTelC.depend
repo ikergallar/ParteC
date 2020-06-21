@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592728827 source:c:\users\ikerg\documents\searchtelc\main.c
+	<stdio.h>
+	<stdlib.h>
+
